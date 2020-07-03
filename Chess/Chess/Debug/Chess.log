@@ -1,0 +1,4 @@
+﻿  체스.c
+C:\Users\user\Documents\GitHub\solo_study\Chess\Chess\체스.c(11,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\solo_study\Chess\Chess\체스.c(13,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Chess.vcxproj -> C:\Users\user\Documents\GitHub\solo_study\Chess\Debug\Chess.exe
