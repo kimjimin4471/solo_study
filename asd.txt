@@ -11,10 +11,10 @@
 ! ----- START https://www.setopati.com -----
 ||img.setopati.com/uploads/bigyapan/
 ||img.setopaty.com/uploads/bigyaapan/
-www.setopati.com###inner-jacket
-www.setopati.com##div[class*="bigyaapan"]
 www.setopati.com##div[class*="bigyaapa"]
 www.setopati.com##div[class*="bigyan"]
+www.setopati.com###inner-jacketasdasd
+www.setopati.com###inner-jacketasd
 ! ----- END https://www.setopati.com -----
 
 ! ----- START https://www.onlinekhabar.com -----
